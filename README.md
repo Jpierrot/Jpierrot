@@ -22,17 +22,12 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /> 
 <br>
 <br>
-<br> 
-
-<h2>want</h2>
-
-
-
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jpierrot&show_icons=true&theme=radical)
 
-
+<Br>
+<br>
 
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com)
 <!--
