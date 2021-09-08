@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/C%23-E34F26?style=flat-square&logo=Csharp#&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-8B00FF?style=flat-square&logo=Csharp#&logoColor=white" />
 <!--
 **Jpierrot/Jpierrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
