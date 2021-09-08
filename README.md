@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 <img src="https://img.shields.io/badge/C%23-8B00FF?style=-square&logo=Csharp#&logoColor=white" />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jpierrot&show_icons=true&theme=radical)
 <!--
 **Jpierrot/Jpierrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
