@@ -1,5 +1,5 @@
 
-<div align = "center">
+
 <H2>Language</H2>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" />  
@@ -16,15 +16,14 @@
 
 <h3>tools</h3>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /> 
-<img style="margin: 10px" src="![image](https://user-images.githubusercontent.com/68889645/132430827-f01ecaf5-6e07-43fc-a987-a666327fec94.png)
-" alt="Blender" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender.png" alt="Blender" height="50" /> 
 <br> 
 
 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jpierrot&show_icons=true&theme=radical)
-</>
+
 
 
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com)
