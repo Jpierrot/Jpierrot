@@ -1,6 +1,7 @@
 
 
 <h2>Language</h2>
+<img src="https://img.shields.io/badge/C%23-8B00FF?style=-square&logo=Csharp#&logoColor=white"/>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />
 
 <h3>Little</h3>
