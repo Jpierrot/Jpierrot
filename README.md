@@ -22,6 +22,8 @@
 <h2>tools</h2>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /> 
+<br>
+<br>
 <br> 
 
 
