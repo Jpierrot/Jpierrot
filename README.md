@@ -22,6 +22,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /> 
 <br>
 <br>
+<br>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jpierrot&show_icons=true&theme=radical)
