@@ -16,7 +16,9 @@
 
 <h3>tools</h3>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /> 
+<img style="margin: 10px" src="![image](https://user-images.githubusercontent.com/68889645/132430827-f01ecaf5-6e07-43fc-a987-a666327fec94.png)
+" alt="Blender" height="50" />
+<br> 
 
 
 
