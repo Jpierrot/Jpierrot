@@ -3,6 +3,11 @@
 <H2>Language</H2>
 <img src="https://img.shields.io/badge/C%23-8B00FF?style=-square&logo=Csharp#&logoColor=white" />
 
+<h3>Little</h3>
+<img src="https://img.shields.io/badge/C-8B00FF?style=-square&logo=C#&logoColor=white" />
+<img src="https://img.shields.io/badge/java-8B00FF?style=-square&logo=java#&logoColor=white" />
+
+
 <H2>Engine</H2>
 <img src="https://img.shields.io/badge/Unity-000000?style=-square&logo=Unity#&logoColor=black" />
 
